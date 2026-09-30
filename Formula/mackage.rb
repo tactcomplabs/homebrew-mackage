@@ -3,8 +3,8 @@ class Mackage < Formula
 
   desc "Build macOS .pkg installers from a single JSON config via pkgbuild/productbuild"
   homepage "https://github.com/tactcomplabs/mackage"
-  url "https://github.com/tactcomplabs/mackage/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "296c60411d3e73ae17847e19c0f8f805c4316ab45cc509481a3d9e7ae45f6608"
+  url "https://github.com/tactcomplabs/mackage/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "17bbbe9c4cd9c6ca4ab3c5a459ce931c2eef49d42bdd1a695a26e8fea507dbc8"
   license "Apache-2.0"
   head "https://github.com/tactcomplabs/mackage.git", branch: "main"
 
